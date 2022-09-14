@@ -1,6 +1,12 @@
 # たかかつのGitHub
 
-ソースコードなどは基本公開しておりません
+個人での創作物のソースコードなどは基本公開しておりません
+
+## 各種リンク
+
+- [ホームページ](https://takakatsu.github.io/)
+- [itch.io](https://takakatsu.itch.io/)
+- [Twitter](https://twitter.com/takakatsu_game)
 
 <p align="left">
   <a href="https://github.com/Takakatsu/Takakatsu/">

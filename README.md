@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=Takakatsu" alt="Takakatsu" />
   </a>
   <a href="http://twitter.com/takakatsu_game">
-    <img height="20" src="https://img.shields.io/twitter/follow/Takakatsu?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/takakatsu_game?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Takakatsu">
     <img height="20" src="https://img.shields.io/github/followers/Takakatsu?label=follow&logo=github&style=flat" />

@@ -2,10 +2,7 @@
 
 個人での創作物のソースコードなどは基本公開しておりません
 
-<p align="left">
-  ![apple](https://user-images.githubusercontent.com/69492517/200097250-9a3f501e-f374-4af4-83f1-2bc365ea39c7.gif)
-  ![sample](https://user-images.githubusercontent.com/69492517/201452876-69738b8c-94d5-421f-ad06-0640eaf53681.gif)
-</p>
+![apple](https://user-images.githubusercontent.com/69492517/200097250-9a3f501e-f374-4af4-83f1-2bc365ea39c7.gif)![sample](https://user-images.githubusercontent.com/69492517/201452876-69738b8c-94d5-421f-ad06-0640eaf53681.gif)
   
 ## 各種リンク
 

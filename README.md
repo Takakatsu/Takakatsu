@@ -4,6 +4,8 @@
 
 ![apple](https://user-images.githubusercontent.com/69492517/200097250-9a3f501e-f374-4af4-83f1-2bc365ea39c7.gif)
 
+![sample](https://user-images.githubusercontent.com/69492517/201452876-69738b8c-94d5-421f-ad06-0640eaf53681.gif)
+
 ## 各種リンク
 
 - [ホームページ](https://takakatsu.github.io/)
